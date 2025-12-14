@@ -59,11 +59,11 @@ for( var i = 0; i < songElements.length; i++ ){
 Amplitude.init({
 	"songs": [
 		{
-			"name": "Risin' High (feat Raashan Ahmad)",
-			"artist": "Ancient Astronauts",
-			"album": "We Are to Answer",
-			"url": "https://amplitude-cdn.serversideup.net/songs/Ancient Astronauts - Risin' High (feat Raashan Ahmad).mp3",
-			"cover_art_url": "https://amplitude-cdn.serversideup.net/img/album-art/we-are-to-answer.jpg"
+			"name": "好人",
+			"artist": "Justin Lo",
+			"album": "側田",
+			"url": "https://drive.google.com/uc?id=1527Cz1YywZUNuDR1-SKbuIq-2fCuMnFN&export=download",
+			"cover_art_url": "https://drive.google.com/uc?export=download&id=1_r6r7hd-5GumJ8mFypXyh62Q1rE6yOOf"
 		},
 		{
 			"name": "The Gun",
